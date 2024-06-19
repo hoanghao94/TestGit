@@ -4,3 +4,4 @@ Line2 - 1
 Line3
 Commit1
 Commit2
+Commit3
